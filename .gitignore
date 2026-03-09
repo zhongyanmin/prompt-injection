@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# logs
+*.log*
+
+# env files
+.env*
+
+# python venv
+.venv
+
+# python cache
+__pycache__/
+
+# backup files
+/back/*.*
+
+# evidence files
+# **/エビデンス/*.png
+# **/エビデンス/*.jpg
+# **/エビデンス/*.jpeg
+# **/エビデンス/*.webp
+# **/エビデンス/*.gif
